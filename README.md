@@ -1,5 +1,10 @@
 # Gzip Compress/Decompress
 
+[![Try it](https://img.shields.io/badge/Try_it-Spoold-0066CC?style=flat-square)](https://spoold.com/tools/gzip)
+[![Free](https://img.shields.io/badge/Free-to_use-brightgreen?style=flat-square)](https://spoold.com/tools/gzip)
+[![No sign-up](https://img.shields.io/badge/No_sign--up-required-informational?style=flat-square)](https://spoold.com/tools/gzip)
+[![Client-side](https://img.shields.io/badge/Client--side-browser-blue?style=flat-square)](https://spoold.com/tools/gzip)
+
 Compress text with gzip or decompress gzip data online. Supports base64 and hex output formats. Free, fast, and privacy-first.
 
 ## Features
